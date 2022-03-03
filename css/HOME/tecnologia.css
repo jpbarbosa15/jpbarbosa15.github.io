@@ -60,3 +60,8 @@
     margin-bottom: 60px;
   }
 }
+@media (max-width: 600px) {
+  .tecnologia-vantagem {
+    flex-direction: column;
+  }
+}
